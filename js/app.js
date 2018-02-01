@@ -100,21 +100,13 @@ $(document).ready(function(){
             'soft pretzel',
             'soda',
             'Cheez Whiz',
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+            'stoop',
+            'City Wide Special',
+            'cannoli',
+            'dippy egg',
+            'Center City',
+            'seeded roll',
+            'el'
         ];
 
         function shuffle(array) {
